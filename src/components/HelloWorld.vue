@@ -27,9 +27,7 @@ export default {
         allowTaint: true
       }).then(canvas => {
         canvas.style = ``;
-        setTimeout(() => {
-     　　  document.getElementById('result').appendChild(canvas)
-        }, 0);
+        document.getElementById('result').appendChild(canvas);
       });
     }
   }
