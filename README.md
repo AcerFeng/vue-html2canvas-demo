@@ -1,4 +1,8 @@
-# test-project
+# vue-html2canvas-demo
+
+在 Vue 项目中使用 html2canvas 进行截图的 demo，包含不同源图片的截图配置。
+
+[在线demo](https://acerfeng.github.io/demo/vue/html2canvas-demo/index.html)
 
 > A Vue.js project
 
