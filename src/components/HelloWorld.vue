@@ -16,6 +16,7 @@
                 <div class="inline-block company-webmail-number">15114584731@163.com</div>
               </div>
             </div>
+            <img width="100px;" height="200px;" src="https://img.alicdn.com/tfs/TB1tOvDXjuhSKJjSspjXXci8VXa-668-332.png" alt="">
           </div>
         </div>
         
